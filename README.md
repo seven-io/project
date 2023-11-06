@@ -1,12 +1,13 @@
-![alt text](https://www.sms77.io/wp-content/uploads/2019/07/sms77-Logo-400x79.png "sms77")
-# sms77io Addin for Project 2013 SP1+ / 2016+ !!!WIP!!! Need a Project license for testing
+![](https://www.seven.io/wp-content/uploads/Logo.svg "seven Logo")
+
+# seven Addin for Project 2013 SP1+ / 2016+ !!!WIP!!! Need a Project license for testing
 
 ## Installation
-- <a href="https://docs.microsoft.com/en-us/office/dev/add-ins/testing/sideload-office-add-ins-for-testing">Sideloading Office on the Web</a>
-- <a href="https://docs.microsoft.com/en-us/office/dev/add-ins/testing/sideload-an-office-add-in-on-ipad-and-mac">Sideloading IPad / IMac</a>
-- <a href="https://docs.microsoft.com/en-us/office/dev/add-ins/testing/create-a-network-shared-folder-catalog-for-task-pane-and-content-add-ins">Sideloading on Windows/ via Network Share</a>
-- <a href="https://docs.microsoft.com/en-us/office/dev/add-ins/publish/centralized-deployment">Centralized Deployment</a>
-- <a href="https://docs.microsoft.com/en-us/office/dev/add-ins/publish/publish-task-pane-and-content-add-ins-to-an-add-in-catalog">SharePoint Catalog</a>
+- [Sideloading Office on the Web](https://docs.microsoft.com/en-us/office/dev/add-ins/testing/sideload-office-add-ins-for-testing)
+- [Sideloading IPad / IMac](https://docs.microsoft.com/en-us/office/dev/add-ins/testing/sideload-an-office-add-in-on-ipad-and-mac)
+- [Sideloading on Windows / via Network Share](https://docs.microsoft.com/en-us/office/dev/add-ins/testing/create-a-network-shared-folder-catalog-for-task-pane-and-content-add-ins)
+- [Centralized Deployment](https://docs.microsoft.com/en-us/office/dev/add-ins/publish/centralized-deployment)
+- [SharePoint Catalog](https://docs.microsoft.com/en-us/office/dev/add-ins/publish/publish-task-pane-and-content-add-ins-to-an-add-in-catalog)
 
 #### License
 See [LICENSE](LICENSE)
