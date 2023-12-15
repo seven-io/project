@@ -1,4 +1,5 @@
-![](https://www.seven.io/wp-content/uploads/Logo.svg "seven Logo")
+<img src="https://www.seven.io/wp-content/uploads/Logo.svg" width="250" />
+
 
 # seven Addin for Project 2013 SP1+ / 2016+ !!!WIP!!! Need a Project license for testing
 
